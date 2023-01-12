@@ -4,4 +4,4 @@ This repo showcases small games coded in the Python programming language. The id
 
 This repo will be updated as changes are made and new games are added. The games currently in this repo are:
 
--MadLibs (content credit goes to madtakes.com)
+- MadLibs (content credit goes to madtakes.com)
